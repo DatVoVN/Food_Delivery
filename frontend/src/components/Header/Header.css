@@ -33,14 +33,7 @@
     background-color: white;
     font-size: max(1vw,13px);
 }
-@keyframes fadeIn{
-    0% {
-        opacity: 0;
-    }
-    100%{
-        opacity: 1;
-    }
-}
+
 @media (max-width: 1050px){
     .header-contents{
         max-width: 45%;
